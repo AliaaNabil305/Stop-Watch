@@ -16,6 +16,13 @@ This project is a simple **Stopwatch** application built with React. It allows u
 - **JavaScript (ES6+):** The programming language used throughout the project.
 - **CSS:** For custom styling.
 
+## 📄 Usage
+Once the application is running, you can:
+
+- **Start the Timer:** Press the "Start" button to start the stopwatch.
+- **Pause and Resume:** Click "Pause" to temporarily stop the timer, and "Resume" to continue.
+- **Reset:** Reset the timer back to 00:00 by pressing the "Reset" button.
+
 ## 🌐 Live Demo
 You can try out the live version of this Stopwatch app here:
 [Project link](https://stop-watch-delta-rust.vercel.app/)
