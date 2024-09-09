@@ -5,9 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #a8eeee;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.card{
+  width: 300px !important;
+  box-shadow: 0 2px 4px rgb(218, 95, 95);
+  border-radius: 20px;
 }
